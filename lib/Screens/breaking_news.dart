@@ -30,7 +30,7 @@ class _BreakingNewsState extends State<BreakingNews> {
 
             } );
           }
-          return Center(child:CircularProgressIndicator() ,);
+          return Center(child:CircularProgressIndicator() ,);//circular
 
           }
 
